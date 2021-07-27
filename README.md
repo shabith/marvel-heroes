@@ -1,6 +1,6 @@
 # Marvel Heroes
 
-Marvel Heroes is a react native application that builds with Marvel Developer API.
+Marvel Heroes is a react native application built with Marvel Developer API.
 
 see it in action:
 
@@ -11,7 +11,7 @@ see it in action:
 ## Features
 
 1. **Infinite scroll pagination** - the app will load 20 heroes each time.
-2. **Hero filtering capability** - you can filter already loaded heroes by name using search.
+2. **Hero filtering capability** - you can filter already loaded heroes by name, using search.
 3. **Latest comics** - Character's latest 10 comics will be available with images, prices, and links to buy.
 4. **Appearance in last decade** - A graph showing characters number of appearance in last decade.
 
@@ -24,4 +24,4 @@ see it in action:
 
 ## Knowing issues
 
-1. In the [Chart package](https://github.com/indiespirit/react-native-chart-kit), There is a knowing bug when we have a low number of data. Due to that, we can see duplicate y-axis labels.
+1. In the [chart package](https://github.com/indiespirit/react-native-chart-kit), there is a knowing bug when we have a low number of data. Due to that, we can see duplicate y-axis labels.
